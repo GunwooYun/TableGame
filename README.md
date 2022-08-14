@@ -9,7 +9,7 @@
  ![environment](/pics/resized_env.png)
  ## 제품 이미지
  ### 컨셉 이미지
- |완성|분해도|
+ |완성도|분해도|
 |:---:|:---:|
 |![table](/pics/finished_table.png)|![detail_table](/pics/detail_table.png)|
 
