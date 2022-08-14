@@ -40,3 +40,6 @@
  |완성이미지|동영상 링크|
  |:---:|:---:|
 |![product](/pics/product.png)|![capture](/pics/capture.png)<br/><br/>영상 링크 : https://youtu.be/RMY9h7epKfE|
+
+[새 탭에서 열기](https://www.google.com/){:target="_blank"}
+<a href="https://www.google.com/" target="_blank">새 탭에서 열기</a>
